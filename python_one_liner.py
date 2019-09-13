@@ -1,0 +1,13 @@
+import sys
+
+# print("\n".join([f"{item[1]} {item[0]}" for item in (sorted({word: ((" ".join([
+#     " ".join([word] * {'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10}.get(open(sys.argv[1]).read().split()[((index+1)%len(open(sys.argv[1]).read().replace('.','').replace(',','').replace(';','').replace(':','').lower().split()))], 1))
+#     for index, word in enumerate(open(sys.argv[1]).read().replace('.','').replace(',','').replace(';','').replace(':','').lower().split())
+#     if word not in {'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10}
+# ]).split())).count(word) for word in set((" ".join([
+#     " ".join([word] * {'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10}.get(open(sys.argv[1]).read().split()[((index+1)%len(open(sys.argv[1]).read().replace('.','').replace(',','').replace(';','').replace(':','').lower().split()))], 1))
+#     for index, word in enumerate(open(sys.argv[1]).read().replace('.','').replace(',','').replace(';','').replace(':','').lower().split())
+#     if word not in {'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10}
+# ]).split()))}.items(), key=lambda item: (item[1], (item[0])), reverse=True)[:5])]))
+
+print("\n".join([f"{item[1]} {item[0]}" for item in (sorted({word: ((" ".join([" ".join([word] * {'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10}.get(open(sys.argv[1]).read().split()[((index+1)%len(open(sys.argv[1]).read().replace('.','').replace(',','').replace(';','').replace(':','').lower().split()))], 1)) for index, word in enumerate(open(sys.argv[1]).read().replace('.','').replace(',','').replace(';','').replace(':','').lower().split()) if word not in {'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10}]).split())).count(word) for word in set((" ".join([" ".join([word] * {'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10}.get(open(sys.argv[1]).read().split()[((index+1)%len(open(sys.argv[1]).read().replace('.','').replace(',','').replace(';','').replace(':','').lower().split()))], 1)) for index, word in enumerate(open(sys.argv[1]).read().replace('.','').replace(',','').replace(';','').replace(':','').lower().split()) if word not in {'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10}]).split()))}.items(), key=lambda item: (item[1], (item[0])), reverse=True)[:5])]))
