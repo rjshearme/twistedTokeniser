@@ -1,0 +1,22 @@
+C++
+Haskell
+Lingua::Romana:Perligata
+Lisp
+LOLCODE
+R
+Rust
+C#
+SQL
+
+BASH
+GO
+Java
+Javascript
+PHP
+Perl
+Python
+Python: oneliner
+Ruby
+
+check punctuation replacement is after downcasing and that it replaces [^a-z0-9 ]
+put in comments

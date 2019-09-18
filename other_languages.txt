@@ -1,4 +1,0 @@
-BASIC
-Lisp
-Perl
-Ruby
