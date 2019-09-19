@@ -1,0 +1,7 @@
+This is to test that next word counting occurs even over line breaks
+
+10 Some
+9 test2
+8 times
+8 test
+4 many

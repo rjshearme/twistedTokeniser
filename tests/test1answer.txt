@@ -1,0 +1,7 @@
+This is an example to ensure that numberic characters are not being removed and that numbers up to "ten" are supported
+
+10 some
+4 many
+3 be
+3 101
+1 words

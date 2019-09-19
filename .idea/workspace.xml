@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a486332c-a79f-43af-8e95-59527f44975f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BASH/bash_solution.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C++/c++_solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Haskell/haskell_solution.hs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/javascript_solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RosettaTokeniser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RosettaTokeniser.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bash_solution.hs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++_solution.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/email_example.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haskell_solution.hs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript_solution.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other_languages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_solution.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/php_solution.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_one_liner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_solution.R" beforeDir="false" afterPath="$PROJECT_DIR$/R/r_solution.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/c++_solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/c++_solution.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/solution" beforeDir="false" afterPath="$PROJECT_DIR$/C++/solution" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go/go_solution" beforeDir="false" afterPath="$PROJECT_DIR$/Go/go_solution" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L:R:P/solutione.pl" beforeDir="false" afterPath="$PROJECT_DIR$/L:R:P/solutione.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Perl/solution.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Perl/solution.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/python_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/python_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/R/r_solution.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ruby/solution.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Ruby/solution.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go_solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,26 +28,32 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Perl/solution.pl">
+        <entry file="file://$PROJECT_DIR$/Python/python_solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/todo.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/L:R:P/solutione.pl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/todo.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -104,15 +107,18 @@
         <option value="$PROJECT_DIR$/LOLCODE/lolcode_wrapper.sh" />
         <option value="$PROJECT_DIR$/Perl/solution.pl" />
         <option value="$PROJECT_DIR$/L:R:P/solutione.pl" />
-        <option value="$PROJECT_DIR$/todo.txt" />
         <option value="$PROJECT_DIR$/Ruby/hello.rb" />
         <option value="$PROJECT_DIR$/C++/test0.txt" />
+        <option value="$PROJECT_DIR$/Python/python_solution.py" />
+        <option value="$PROJECT_DIR$/si/solución.py" />
+        <option value="$PROJECT_DIR$/todo.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="832" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="1Qxhqy2mu8NxrFvKQUfTJLNftBw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -135,6 +141,11 @@
               <item name="RosettaTokeniser" type="b2602c69:ProjectViewProjectNode" />
               <item name="RosettaTokeniser" type="462c0819:PsiDirectoryNode" />
               <item name="C++" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RosettaTokeniser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RosettaTokeniser" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,15 +197,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="832" extended-state="0" />
+    <frame x="0" y="0" width="816" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25968993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928468" visible="true" weight="0.49864864" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928468" visible="true" weight="0.31325302" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
@@ -403,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/L:R:P/solutione.pl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -438,8 +449,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/si/solución.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/python_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/todo.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

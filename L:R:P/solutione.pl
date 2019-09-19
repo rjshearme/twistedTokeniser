@@ -1,4 +1,11 @@
-use Lingua::Romana::Perligata;
+use Lingua::Romana::Perligata 'converte';
 
-stringo da test0.txt.
-evolute stringum.
+da foo dictum sic anything in this string is okay cis.
+scribe egresso foum.
+
+da thesVerbibus dictum sic two cis II.
+scribe egresso hashus.
+
+si adfirma threeum thesVerbibus fac sic
+  scribe egresso dictum sic fuck cis
+cis

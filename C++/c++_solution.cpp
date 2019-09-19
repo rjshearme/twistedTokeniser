@@ -18,23 +18,11 @@ map<string, int> getWord2NumMap() {
     {"nine", 9},
     {"ten", 10},
   };
-  // word2num["two"] = 2;
-  // word2num["three"] = 3;
-  // word2num["four"] = 4;
-  // word2num["five"] = 5;
-  // word2num["six"] = 6;
-  // word2num["seven"] = 7;
-  // word2num["eight"] = 8;
-  // word2num[]
-  // word2num["ten"] = 10;
 
   return word2num;
 }
 
 string getFileFromArgv(char** cmdArgs, int argNum) {
-  // if (argc == 0) {
-  //   throw std::invalid_argument( "No file input was specified" );
-  // }
   string input_file = cmdArgs[argNum];
 
   ifstream f(input_file);

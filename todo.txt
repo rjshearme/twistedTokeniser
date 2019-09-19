@@ -1,14 +1,17 @@
-C++
 Haskell
-Lingua::Romana:Perligata
-Lisp
 LOLCODE
 R
-Rust
+Common Lisp
 C#
-SQL
+swift
+Visual Basic
+Objective C
+Rust
+L:R:P
+
 
 BASH
+C++
 GO
 Java
 Javascript
@@ -20,3 +23,6 @@ Ruby
 
 check punctuation replacement is after downcasing and that it replaces [^a-z0-9 ]
 put in comments
+free cpp memory
+cpp pointers
+check all dictionaries!

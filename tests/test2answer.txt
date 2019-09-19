@@ -1,0 +1,7 @@
+This is to test that alphabetic numbers at the beginning of the string are ignored and that consecutive alphabetic numbers aren't counted
+
+5 times
+4 many
+3 be
+1 words
+1 will

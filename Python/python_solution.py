@@ -60,5 +60,3 @@ if __name__=="__main__":
     solution = new_solve(file_contents)
     sorted_solution = sort_output(solution)
     print_output(sorted_solution, 5)
-
-
