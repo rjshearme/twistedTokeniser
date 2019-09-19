@@ -34,6 +34,7 @@ def process_file(file_contents: str) -> list:
     file_contents = file_contents.replace("\n", " ")
     return re.sub(r"[^a-z0-9 ]", "", file_contents.lower()).split()
 
+
 def twist(file_contents: list) -> dict:
     output_dict = defaultdict(int)
     for index, word in enumerate(file_contents):
