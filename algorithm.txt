@@ -1,9 +1,0 @@
-get command_line arg
-read in file
-lowercase
-remove punctuation
-tokenise
-twist
-count
-sort
-print
